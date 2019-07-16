@@ -1,0 +1,12 @@
+export const SEND_MSG = "ADD_MSG";
+export const GET_All_MSG = "GET_All_MSG";
+export const GET_ERRS = "GET_ERRS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const ADD_POST = "ADD_POST";
+export const GET_POSTS = "GET_POSTS";
+export const GET_PROFILE= "GET_PROFILE";
+export const GET_SEARCH = "GET_SEARCH";
+export const GET_POSTS_ID = "GET_POSTS_ID";
+export const GET_USERS = "GET_USERS"; 
+export const FOLLOW_USER = "FOLLOW_USER";
+export const UNFOLLOW_USER = "UNFOLLOW_USER"
